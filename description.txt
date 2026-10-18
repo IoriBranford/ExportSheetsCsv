@@ -1,1 +1,3 @@
 Adds a button "Export CSV Sheets" to Calc, between "Export Directly as PDF" and "Print". This lets you export all sheets in a spreadsheet to separate CSV files.
+
+CSV files will be named "{spreadsheet}-{sheet}.csv" and saved alongside the spreadsheet file. CSV export options (delimiters etc.) are currently not supported.
