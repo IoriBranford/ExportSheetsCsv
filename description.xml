@@ -20,4 +20,9 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
     <src xlink:href="description.txt" lang="en" />
   </extension-description>
 
+  <registration>
+    <simple-license accept-by="admin" >
+      <license-text xlink:href="LICENSE" lang="en" />
+    </simple-license>
+  </registration>
 </description>

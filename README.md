@@ -14,4 +14,5 @@ CSV export options (delimiters etc.) are currently not supported.
 
 1. Download latest release
 1. Open it with Libreoffice
+1. Accept license
 1. Restart Libreoffice
